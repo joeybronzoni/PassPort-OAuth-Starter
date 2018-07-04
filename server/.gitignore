@@ -1,0 +1,23 @@
+/node_modules
+bundle.js
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
+
+# env cars
+*.env
+
+# saved files
+#~
+
+# Hashed files
+\#*
+
+#diagram folder
+/diagrams
+
+#secrets and keys
+keys.js
